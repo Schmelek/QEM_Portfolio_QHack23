@@ -32,4 +32,4 @@ We chose Measurement EM, as we have explicit data on errors in IonQ.
 
 # Quantum annealing
 
-We will repeat QEM method, proposed in this article: arXiv:2210.08862 , to evaluate its results on real-data and with several hardwares.  
+We have demonstrated the solution of QUBO problem on D-Wave hardware
